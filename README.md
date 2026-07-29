@@ -178,22 +178,22 @@ This dashboard evaluates lending performance and card services.
 
 ## Executive Dashboard
 
-<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (161).png">
+<img src="C:\Users\jeeva\OneDrive\Desktop\Banking_Dashboard">
 
 ---
 
 ## Geographic Dashboard
 
-<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (162).png">
+<img src="C:\Users\jeeva\OneDrive\Desktop\Banking_Dashboard">
 
 ---
 
 ## Customer Dashboard
 
-<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (163).png">
+<img src="C:\Users\jeeva\OneDrive\Desktop\Banking_Dashboard">
 
 ---
 
 ## Loan Dashboard
 
-<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (164).png">
+<img src="C:\Users\jeeva\OneDrive\Desktop\Banking_Dashboard">
