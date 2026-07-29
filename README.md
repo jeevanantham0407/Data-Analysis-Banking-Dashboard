@@ -8,7 +8,7 @@ The objective of this project is to develop a Banking Analytics Dashboard in Pow
 
 ## Dataset Used
 
-<a href="YOUR_DATASET_LINK">Dataset</a>
+<a href="(https://github.com/jeevanantham0407/Data-Analysis-Banking-Dashboard/tree/main/Dataset)">Dataset</a>
 
 ---
 
@@ -76,7 +76,7 @@ Analyze customer accounts, balances, and account distribution to understand cust
 
 ---
 
-# Dashboard 4: Loans & Cards Dashboard
+# Dashboard 4: Loan Dashboard
 
 ### Objective
 
@@ -106,13 +106,13 @@ Monitor loan performance, approval rates, and card issuance to evaluate lending 
 
 # Dashboard Locations
 
-<a href="EXECUTIVE_DASHBOARD_LINK">Executive Dashboard</a>
+<a href="https://github.com/jeevanantham0407/Data-Analysis-Banking-Dashboard/blob/main/Screenshot%20(161).png">Executive Dashboard</a>
 
-<a href="GEOGRAPHIC_DASHBOARD_LINK">Geographic Dashboard</a>
+<a href="https://github.com/jeevanantham0407/Data-Analysis-Banking-Dashboard/blob/main/Screenshot%20(162).png">Geographic Dashboard</a>
 
-<a href="CUSTOMER_DASHBOARD_LINK">Customer Dashboard</a>
+<a href="https://github.com/jeevanantham0407/Data-Analysis-Banking-Dashboard/blob/main/Screenshot%20(163).png">Customer Dashboard</a>
 
-<a href="LOANS_AND_CARDS_DASHBOARD_LINK">Loans & Cards Dashboard</a>
+<a href="https://github.com/jeevanantham0407/Data-Analysis-Banking-Dashboard/blob/main/Screenshot%20(164).png">Loan Dashboard</a>
 
 ---
 
@@ -160,7 +160,7 @@ This dashboard provides insights into customer accounts and financial activities
 
 ---
 
-## Dashboard 4: Loans & Cards Dashboard
+## Dashboard 4: Loan Dashboard
 
 This dashboard evaluates lending performance and card services.
 
@@ -178,22 +178,22 @@ This dashboard evaluates lending performance and card services.
 
 ## Executive Dashboard
 
-<img src="YOUR_IMAGE_LINK">
+<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (161).png">
 
 ---
 
 ## Geographic Dashboard
 
-<img src="YOUR_IMAGE_LINK">
+<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (162).png">
 
 ---
 
 ## Customer Dashboard
 
-<img src="YOUR_IMAGE_LINK">
+<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (163).png">
 
 ---
 
-## Loans & Cards Dashboard
+## Loan Dashboard
 
-<img src="YOUR_IMAGE_LINK">
+<img src="c:\Users\jeeva\OneDrive\Desktop\OneDrive\Pictures\Screenshots\Screenshot (164).png">
